@@ -1,21 +1,33 @@
+/* General Table Styling */
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
 
-/* Formatage conditionnel pour Savings Gap */
+/* Example Column Formatting for Savings Gap */
 .field-key-procure_iq_performance-savings_gap {
-  background: linear-gradient(to right, #ff0000 0%, #ffff00 50%, #00ff00 100%);
-  color: #000000;
-  font-weight: bold;
-  text-align: center;
+    background: linear-gradient(to right, #ff0000 0%, #ffff00 50%, #008000 100%);
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
 }
 
-/* Formatage conditionnel pour Conversion Effects Gap */
+/* Example Column Formatting for Ref PA Gap */
+.field-key-procure_iq_performance-ref_pa_gap {
+    background: linear-gradient(to right, #ffcccc 0%, #ff9999 50%, #ff6666 100%);
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Example Column Formatting for Conversion Effects Gap */
 .field-key-procure_iq_performance-conversion_effects_gap {
-  background: linear-gradient(to right, #ff0000 0%, #ffff00 50%, #00ff00 100%);
-  color: #000000;
-  font-weight: bold;
-  text-align: center;
+    background: linear-gradient(to right, #ccccff 0%, #9999ff 50%, #6666ff 100%);
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
 }
 
-/* Formatage conditionnel pour Ref PA Gap */
 .field-key-procure_iq_performance-ref_pa_gap {
   background: linear-gradient(to right, #ff0000 0%, #ffff00 50%, #00ff00 100%);
   color: #000000;
