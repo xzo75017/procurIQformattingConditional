@@ -1,0 +1,24 @@
+
+/* Formatage conditionnel pour Savings Gap */
+.field-key-procure_iq_performance-savings_gap {
+  background: linear-gradient(to right, #ff0000 0%, #ffff00 50%, #00ff00 100%);
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Formatage conditionnel pour Conversion Effects Gap */
+.field-key-procure_iq_performance-conversion_effects_gap {
+  background: linear-gradient(to right, #ff0000 0%, #ffff00 50%, #00ff00 100%);
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Formatage conditionnel pour Ref PA Gap */
+.field-key-procure_iq_performance-ref_pa_gap {
+  background: linear-gradient(to right, #ff0000 0%, #ffff00 50%, #00ff00 100%);
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+}
