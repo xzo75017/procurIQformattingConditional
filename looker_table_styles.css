@@ -1,23 +1,4 @@
-/* Pour Savings Gap */
 .field-key-procure_iq_performance-savings_gap {
-    background: linear-gradient(to right, #FF0000 0%, #FFA500 50%, #008000 100%);
-    color: #000000;
-    font-weight: bold;
-    text-align: center;
-}
-
-/* Pour Conversion Effects Gap */
-.field-key-procure_iq_performance-conversion_effects_gap {
-    background: linear-gradient(to right, #FF0000 0%, #FFA500 50%, #008000 100%);
-    color: #000000;
-    font-weight: bold;
-    text-align: center;
-}
-
-/* Pour Ref PA Gap */
-.field-key-procure_iq_performance-ref_pa_gap {
-    background: linear-gradient(to right, #FF0000 0%, #FFA500 50%, #008000 100%);
-    color: #000000;
-    font-weight: bold;
-    text-align: center;
+  background-color: yellow;
+  color: black;
 }
